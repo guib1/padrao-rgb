@@ -1,0 +1,19 @@
+C:\Users\Fortec\Desktop\padrão rgb\padrão rgb\bin\Debug\padrão rgb.exe.config
+C:\Users\Fortec\Desktop\padrão rgb\padrão rgb\bin\Debug\padrão rgb.exe
+C:\Users\Fortec\Desktop\padrão rgb\padrão rgb\bin\Debug\padrão rgb.pdb
+C:\Users\Fortec\Desktop\padrão rgb\padrão rgb\obj\Debug\padrão rgb.csprojAssemblyReference.cache
+C:\Users\Fortec\Desktop\padrão rgb\padrão rgb\obj\Debug\padrão_rgb.Form1.resources
+C:\Users\Fortec\Desktop\padrão rgb\padrão rgb\obj\Debug\padrão_rgb.Properties.Resources.resources
+C:\Users\Fortec\Desktop\padrão rgb\padrão rgb\obj\Debug\padrão rgb.csproj.GenerateResource.cache
+C:\Users\Fortec\Desktop\padrão rgb\padrão rgb\obj\Debug\padrão rgb.csproj.CoreCompileInputs.cache
+C:\Users\Fortec\Desktop\padrão rgb\padrão rgb\obj\Debug\padrão rgb.exe
+C:\Users\Fortec\Desktop\padrão rgb\padrão rgb\obj\Debug\padrão rgb.pdb
+C:\Users\guilh\Downloads\padrão rgb\padrão rgb\bin\Debug\padrão rgb.exe.config
+C:\Users\guilh\Downloads\padrão rgb\padrão rgb\bin\Debug\padrão rgb.exe
+C:\Users\guilh\Downloads\padrão rgb\padrão rgb\bin\Debug\padrão rgb.pdb
+C:\Users\guilh\Downloads\padrão rgb\padrão rgb\obj\Debug\padrão_rgb.Form1.resources
+C:\Users\guilh\Downloads\padrão rgb\padrão rgb\obj\Debug\padrão_rgb.Properties.Resources.resources
+C:\Users\guilh\Downloads\padrão rgb\padrão rgb\obj\Debug\padrão rgb.csproj.GenerateResource.cache
+C:\Users\guilh\Downloads\padrão rgb\padrão rgb\obj\Debug\padrão rgb.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Downloads\padrão rgb\padrão rgb\obj\Debug\padrão rgb.exe
+C:\Users\guilh\Downloads\padrão rgb\padrão rgb\obj\Debug\padrão rgb.pdb
